@@ -6,14 +6,14 @@ This project contained two parts. The first ask was to scrape titles and preview
 
 ## Part 1: Mars News
 
-I was asked to scrape titles and preview text from a Mars news articles site. Using the site <a href> https://static.bc-edx.com/data/web/mars_news/index.html</a>, I pulled a list of fifteen (15) titles and previews and compiled them in a json file. The first five titles and previews have been listed here.
+I was asked to scrape titles and preview text from a Mars news articles site. Using the [Mars Planet Science site]([https://openweathermap.org/api](https://static.bc-edx.com/data/web/mars_news/index.html), I pulled a list of fifteen (15) titles and previews and compiled them in a json file. The first five titles and previews have been listed here.
 
 ADD IMAGE OF JSON
 
 
 ## Part 2: Mars Weather Data
 
-I was asked to scrape weather data from a Mars temperature data site. Using the site <a href> https://static.bc-edx.com/data/web/mars_facts/temperature.html</a>, I pulled a list of 1867 Martian Days data points and created a data frame of the information to analyze. The first five rows of data have been included in the image below.
+I was asked to scrape weather data from a Mars temperature data site. Using the [Mission To Mars site]([https://apidocs.geoapify.com/docs/geocoding/forward-geocoding/#api](https://static.bc-edx.com/data/web/mars_facts/temperature.html), I pulled a list of 1867 Martian Days data points and created a data frame of the information to analyze. The first five rows of data have been included in the image below.
 
 ADD IMAGE OF data frame
 
@@ -50,3 +50,6 @@ ADD IMAGE OF year
 
 
 ### Sources
+Data for the Mars News analysis scraped from [Mars Planet Science]([https://openweathermap.org/api](https://static.bc-edx.com/data/web/mars_news/index.html) as of August 12, 2024.
+
+Data for Mars Weather Data analysis scraped from [Mission To Mars]([https://apidocs.geoapify.com/docs/geocoding/forward-geocoding/#api](https://static.bc-edx.com/data/web/mars_facts/temperature.html) as of August 12, 2024.
